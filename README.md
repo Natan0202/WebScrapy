@@ -24,3 +24,5 @@ Items que precisei
 ------------
 
 Utilizei em um site, que eu precisava capturar modelos de Hardwares. E foi colocado manualmente no script as classes do HTML onde estavam as informações e o site!
+
+<h1>Arquivo que é para rodar é o DICA.PY na Pasta Spiders</h1>
